@@ -899,16 +899,16 @@
         },
         {
             "name": "shawnsandy/pagekit",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shawnsandy/pagekit.git",
-                "reference": "b2423b2354e74035b4a24d805b01529c50b4722e"
+                "reference": "84e8a32ae3a5e6a75b237ae9d5af20b573916422"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/b2423b2354e74035b4a24d805b01529c50b4722e",
-                "reference": "b2423b2354e74035b4a24d805b01529c50b4722e",
+                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/84e8a32ae3a5e6a75b237ae9d5af20b573916422",
+                "reference": "84e8a32ae3a5e6a75b237ae9d5af20b573916422",
                 "shasum": ""
             },
             "require": {
@@ -949,7 +949,7 @@
                 "pagekit",
                 "shawnsandy"
             ],
-            "time": "2016-07-29 13:17:20"
+            "time": "2016-07-29 19:06:25"
         },
         {
             "name": "swiftmailer/swiftmailer",
