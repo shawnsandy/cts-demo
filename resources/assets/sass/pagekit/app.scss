@@ -1,0 +1,31 @@
+$font-size-base: 16px;
+$navbar-height: 100px;
+$input-border-radius: 3px;
+$navbar-margin-bottom: 0;
+$base-padding: 40px;
+$secondary-bg: #337AB7;
+$border-radius-base: 5;
+$btn-border-radius-base: 3px;
+$sidebar-width: 250px;
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//fix fonts for bettter scaling
+html {
+  //font-size: 62.5%;
+}
+
+body {
+  color: darken($gray-light, 15);
+  -webkit-font-smoothing: antialiased;
+  border-top: 5px solid $secondary-bg;
+  font-size: 16px;
+  &.dashboard {
+    border-top: none;
+    //background-image: url("/img/swirl.png");
+  }
+}
+
+.cover {
+  background-color: $gray-lighter;
+}
