@@ -1,6 +1,7 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 $font-size-base: 16px;
-$navbar-height: 100px;
-$input-border-radius: 3px;
+$navbar-height: 80px;
+$input-border-radius: 1px;
 $navbar-margin-bottom: 0;
 $base-padding: 40px;
 $secondary-bg: #337AB7;
@@ -10,22 +11,62 @@ $sidebar-width: 250px;
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
-//fix fonts for bettter scaling
-html {
-  //font-size: 62.5%;
+html, body {
+  height: 100%;
+}
+
+header {
+  height: 100%;
 }
 
 body {
-  color: darken($gray-light, 15);
-  -webkit-font-smoothing: antialiased;
-  border-top: 5px solid $secondary-bg;
-  font-size: 16px;
-  &.dashboard {
-    border-top: none;
-    //background-image: url("/img/swirl.png");
-  }
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  //font-weight: 100;
+
 }
 
+.layout-table {
+  display: table;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.layout-row {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+header {
+
+  background: $gray-lighter url("/img/cts-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 40%;
+  &.index {
+    height: 70%;
+  }
+}
 .cover {
-  background-color: $gray-lighter;
+  height: 100%;
+  color: #fff;
+
+  h1 {
+    font-size: 71px;
+  }
+
+}
+
+main {
+  padding-top: $base-padding;
+  padding-bottom: $base-padding;
+}
+
+
+.big-nav {
+ height: 20%;
 }
