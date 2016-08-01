@@ -22,15 +22,15 @@
 
             <!-- Branding Image -->
             <a class="navbar-brand" href="{{ url('/') }}">
-                Laravel
+                Complete Technology Solutions
             </a>
         </div>
 
         <div class="collapse navbar-collapse" id="app-navbar-collapse">
             <!-- Left Side Of Navbar -->
-            <ul class="nav navbar-nav">
-                <li><a href="{{ url('/home') }}">Home</a></li>
-            </ul>
+            {{--<ul class="nav navbar-nav">--}}
+                {{--<li><a href="{{ url('/home') }}">Home</a></li>--}}
+            {{--</ul>--}}
 
             <!-- Right Side Of Navbar -->
             <ul class="nav navbar-nav navbar-right">
@@ -38,7 +38,11 @@
                 @if (Auth::guest())
                      <li>
                          <a href="/page/about">About</a>
+
                      </li>
+                <li>
+                    <a href="/page/contact">Contact</a>
+                </li>
                     {{--<li><a href="{{ url('/login') }}">Login</a></li>--}}
                     {{--<li><a href="{{ url('/register') }}">Register</a></li>--}}
 
