@@ -4,7 +4,7 @@
     <div class="layout-table">
         <div class="layout-row">
             <div class="logo">
-                <h1 class="headline">CTSFLA</h1>
+                <h1>PAGE.KITvvv</h1>
                 <p class="lead">
                     Static pages for Laravel.
                 </p>
