@@ -41,32 +41,66 @@ body {
 }
 
 header {
-
-  background: $gray-lighter url("/img/cts-bg.jpg");
+  background: #eeeeee url("/img/cts-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   height: 40%;
-  &.index {
-    height: 70%;
-  }
 }
+
+header.index {
+
+  height: 600px;
+}
+
+main, section, footer {
+  padding: 40px 0 40px 0;
+
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.products {
+  margin-bottom: 60px;
+}
+
 .cover {
   height: 100%;
   color: #fff;
+}
 
-  h1 {
-    font-size: 71px;
-  }
-
+.cover h1 {
+  font-size: 71px;
 }
 
 main {
-  padding-top: $base-padding;
-  padding-bottom: $base-padding;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
-
 .big-nav {
- height: 20%;
+  height: 20%;
+  max-height: 150px;
+}
+
+main {
+  background-color: #f9f9f9;
+}
+
+.products img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.products p {
+  padding: 12px;
+  line-height: 1.7;
+}
+
+.feature {
+  /*color: #fff;*/
+  padding: 80px 0 80px 0;
 }

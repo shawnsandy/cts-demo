@@ -63,7 +63,7 @@
 
                     <div class="col-md-12 products text-center">
                         <img src="/img/atlas-network-2.jpeg">
-                        <h1 class="">Network Management</h1>
+                        <h1 class="">Network and System Management</h1>
                         <p class="lead">
                           Holisticly morph emerging innovation whereas mission-critical process improvements. Efficiently provide access to cross-media systems before tactical scenarios. Competently iterate interdependent data rather than quality "outside the box" thinking. Credibly actualize.
                         </p>
