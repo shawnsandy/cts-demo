@@ -7967,8 +7967,23 @@ main {
     max-height: 150px;
 }
 
+main {
+    background-color: #f9f9f9;
+}
+
 .products img {
     width: 100%;
+    border-radius: 8px;
+}
+
+.products p {
+     padding: 12px;
+     line-height: 1.8;
+ }
+
+.feature {
+    /*color: #fff;*/
+    padding: 80px 0 80px 0;
 }
 
 /*# sourceMappingURL=app.css.map */

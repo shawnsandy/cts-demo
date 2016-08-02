@@ -15,16 +15,22 @@
             </div>
         </div>
     </header>
-    <main>
+
+    <section class="feature">
         <div class="container">
             <div class="row text-center">
                 <h1>Welcome Message</h1>
                 <p class="lead text-center">
-                  Synergistically procrastinate sustainable intellectual capital rather than interdependent leadership skills. Objectively myocardinate high-quality content through team driven technology. Interactively syndicate 24/365 networks through virtual leadership. Monotonectally utilize competitive data before resource sucking infomediaries. Collaboratively pontificate stand-alone relationships after real-time benefits.
+                    Synergistically procrastinate sustainable intellectual capital rather than interdependent leadership skills. Objectively myocardinate high-quality content through team driven technology. Interactively syndicate 24/365 networks through virtual leadership. Monotonectally utilize competitive data before resource sucking infomediaries. Collaboratively pontificate stand-alone relationships after real-time benefits.
                 </p>
             </div>
 
         </div>
+
+    </section>
+
+    <main>
+
 
 
         <section>
@@ -40,14 +46,14 @@
                         </p>
                     </div>
                     <div class="col-md-6 products">
-                        <img src="https://as2.ftcdn.net/jpg/00/99/59/79/500_F_99597971_TTaJxbCLXbSB7FEJLhJSSn4RZfHdzo6J.jpg" alt="" class="img-responsive">
+                        <img src="/img/interns.jpeg">
                         <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
                         <p>
                           Globally recaptiualize highly efficient services for e-business technology. Conveniently enable state of the art alignments vis-a-vis professional e-business. Appropriately exploit out-of-the-box mindshare before premium vortals. Assertively formulate enabled models via.
                         </p>
                     </div>
                     <div class="col-md-6 products">
-                        <img src="https://as2.ftcdn.net/jpg/00/99/59/79/500_F_99597971_TTaJxbCLXbSB7FEJLhJSSn4RZfHdzo6J.jpg" alt="" class="img-responsive">
+                        <img src="/img/development.jpeg">
                         <h3 class="lead text-center">Web and Application Development</h3>
                         <p>
                           Enthusiastically leverage existing collaborative users after enterprise-wide web services. Distinctively reinvent customized functionalities after virtual growth strategies. Monotonectally maintain prospective e-markets through web-enabled portals.
@@ -63,7 +69,7 @@
                         </p>
                     </div>
                     <div class="col-md-6 products">
-                        <img src="https://as2.ftcdn.net/jpg/00/99/59/79/500_F_99597971_TTaJxbCLXbSB7FEJLhJSSn4RZfHdzo6J.jpg" alt="" class="img-responsive">
+                        <img src="/img/it.jpeg" alt="" class="img-responsive">
                         <h3 class="lead text-center">IT Sales and Support</h3>
                         <p>
                           Competently architect customer directed platforms without superior deliverables. Compellingly visualize functionalized methodologies without business convergence. Quickly innovate clicks-and-mortar value for team building channels. Seamlessly productize plug-and-play communities before resource-leveling scenarios.
@@ -71,7 +77,7 @@
                     </div>
                     <div class="col-md-6 products">
 
-                        <img src="https://as2.ftcdn.net/jpg/00/99/59/79/500_F_99597971_TTaJxbCLXbSB7FEJLhJSSn4RZfHdzo6J.jpg" alt="" class="img-responsive">
+                        <img src="/img/embedded.jpeg" alt="" class="img-responsive">
                         <h3 class="lead text-center">Embedded Systems</h3>
                         <p>
                           Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of empowerment. Competently extend parallel sources with parallel paradigms. Interactively leverage other's web-enabled alignments without team driven interfaces. Credibly matrix innovative.
