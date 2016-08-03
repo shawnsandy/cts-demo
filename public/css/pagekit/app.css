@@ -5813,4 +5813,10 @@ main {
   /*color: #fff;*/
   padding: 80px 0 80px 0; }
 
+.clients {
+  background-color: #eeeeee; }
+
+.client-logo {
+  height: 200px; }
+
 /*# sourceMappingURL=app.css.map */

@@ -36,8 +36,6 @@
     <main>
 
 
-        <section>
-
 
             <div class="container">
                 <div class="row">
@@ -102,15 +100,73 @@
                             innovative.
                         </p>
                     </div>
-
-
                 </div>
 
 
+        </div>
+
+
+    </main>
+    <section class="clients">
+        <div class="container">
+            <div class="row text-center">
+                <h2>Our Clients </h2>
+                <hr>
+
             </div>
 
-        </section>
-    </main>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    [ CLIENT LOGO HERE ]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    [ CLIENT LOGO HERE ]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    [ CLIENT LOGO HERE ]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    [ CLIENT LOGO HERE ]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+    </section>
     @include('shared.footer')
     @push('styles')
     <style type="text/css">
