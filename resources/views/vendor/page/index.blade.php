@@ -94,7 +94,7 @@
                     <div class="col-md-6 products">
 
                         <img src="/img/embedded.jpeg" alt="" class="img-responsive">
-                        <h3 class="lead text-center">Embedded Systems</h3>
+                        <h3 class="lead text-center">Embedded Devices</h3>
                         <p>
                             Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
                             empowerment. Competently extend parallel sources with parallel paradigms. Interactively
