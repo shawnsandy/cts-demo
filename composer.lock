@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1f120c37c4d712e504380b71d3d34656",
-    "content-hash": "b6c5d31da10ba87eafdbf70dcbadce31",
+    "hash": "871f7b9a3f1e9d4316235a4aa0c44d27",
+    "content-hash": "2b394ab5dec1c60b59e884325569d1b4",
     "packages": [
         {
             "name": "arrilot/laravel-widgets",
@@ -2898,16 +2898,16 @@
         },
         {
             "name": "shawnsandy/pagekit",
-            "version": "v1.2.4",
+            "version": "v1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shawnsandy/pagekit.git",
-                "reference": "3d31e5668d4cc53ee8cdb0f5b5e641ad8ebd4a49"
+                "reference": "3d1fc6128cc630f9a1cf91d0863e0df3c32e23aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/3d31e5668d4cc53ee8cdb0f5b5e641ad8ebd4a49",
-                "reference": "3d31e5668d4cc53ee8cdb0f5b5e641ad8ebd4a49",
+                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/3d1fc6128cc630f9a1cf91d0863e0df3c32e23aa",
+                "reference": "3d1fc6128cc630f9a1cf91d0863e0df3c32e23aa",
                 "shasum": ""
             },
             "require": {
@@ -2972,7 +2972,7 @@
                 "pagekit",
                 "shawnsandy"
             ],
-            "time": "2016-08-01 02:18:51"
+            "time": "2016-08-02 02:36:39"
         },
         {
             "name": "spatie/geocoder",
