@@ -5774,7 +5774,8 @@ a:link {
   color: #004C96; }
 
 .navbar-default .navbar-nav > li > a {
-  color: #004C96; }
+  color: #004C96;
+  font-size: 15px; }
 
 p {
   font-size: 16px;
