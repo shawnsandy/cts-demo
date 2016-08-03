@@ -5770,6 +5770,12 @@ footer {
   background-color: #222222;
   color: #777777; }
 
+a:link {
+  color: #004C96; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #004C96; }
+
 p {
   font-size: 16px;
   line-height: 1.6; }

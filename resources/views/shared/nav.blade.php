@@ -21,8 +21,10 @@
             </button>
 
             <!-- Branding Image -->
-            <a class="navbar-brand" href="{{ url('/') }}">
-                Complete Technology Solutions
+            <a class="navbar-brand" href="{{ url('/') }}" style="padding-top: 20px">
+               <span class="text-primary">
+                   <img src="/img/CTSlogo.jpg" alt="Logo">
+               </span>
             </a>
         </div>
 
