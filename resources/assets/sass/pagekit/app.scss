@@ -3,7 +3,7 @@ $font-size-base: 16px;
 $navbar-height: 80px;
 $input-border-radius: 1px;
 $navbar-margin-bottom: 0;
-$base-padding: 40px;
+$base-padding: 30px;
 $secondary-bg: #337AB7;
 $border-radius-base: 5;
 $btn-border-radius-base: 3px;
@@ -13,6 +13,7 @@ $sidebar-width: 250px;
 
 html, body {
   height: 100%;
+  color: darken($gray-light, 5%);
 }
 
 header {
@@ -54,11 +55,17 @@ header.index {
 }
 
 main, section, footer {
-  padding: 40px 0 40px 0;
+  padding: $base-padding 0 $base-padding 0;
 
 }
 
+footer {
+  background-color: $gray-darker;
+  color: $gray-light;
+}
+
 p {
+
   font-size: 16px;
   line-height: 1.6;
 }
