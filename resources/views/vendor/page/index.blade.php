@@ -1,7 +1,7 @@
 @extends('page::page-layouts.default')
 @section('page')
     @include('shared.nav')
-    <header class="index">
+    <header class="index" data-aos="fade-down">
         <div class="cover">
             <div class="layout-table">
                 <div class="layout-row">
@@ -16,7 +16,7 @@
         </div>
     </header>
 
-    <section class="feature">
+    <section class="feature" data-aos="fade-down">
         <div class="container">
             <div class="row text-center">
                 <h1>Welcome Message</h1>
@@ -39,7 +39,7 @@
 
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 products text-center">
+                    <div class="col-md-12 products text-center" data-aos="slide-right">
                         <img src="/img/atlas-2.jpeg" alt="" class="img-responsive">
                         <h1>Atlas For Workforce</h1>
                         <p class="lead">
@@ -49,7 +49,7 @@
                             customize corporate.
                         </p>
                     </div>
-                    <div class="col-md-6 products">
+                    <div class="col-md-6 products" data-aos="fade-down">
                         <img src="/img/interns.jpeg">
                         <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
                         <p>
@@ -58,7 +58,7 @@
                             out-of-the-box mindshare before premium vortals. Assertively formulate enabled models via.
                         </p>
                     </div>
-                    <div class="col-md-6 products">
+                    <div class="col-md-6 products" data-aos="fade-down">
                         <img src="/img/development.jpeg">
                         <h3 class="lead text-center">Web and Application Development</h3>
                         <p>
@@ -69,7 +69,7 @@
                     </div>
 
 
-                    <div class="col-md-12 products text-center">
+                    <div class="col-md-12 products text-center" data-aos="slide-left">
                         <img src="/img/atlas-network-2.jpeg">
                         <h1 class="">Network and System Management</h1>
                         <p class="lead">
@@ -80,7 +80,7 @@
                         </p>
                     </div>
                     <div class="col-md-6 products">
-                        <img src="/img/it.jpeg" alt="" class="img-responsive">
+                        <img src="/img/it.jpeg" alt="" class="img-responsive" data-aos="fade-down">
                         <h3 class="lead text-center">IT Sales and Support</h3>
                         <p>
                             Competently architect customer directed platforms without superior deliverables.
@@ -91,7 +91,7 @@
                     </div>
                     <div class="col-md-6 products">
 
-                        <img src="/img/embedded.jpeg" alt="" class="img-responsive">
+                        <img src="/img/embedded.jpeg" alt="" class="img-responsive" data-aos="fade-down">
                         <h3 class="lead text-center">Embedded Devices</h3>
                         <p>
                             Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
@@ -169,6 +169,7 @@
     </section>
     @include('shared.footer')
     @push('styles')
+    <link rel="stylesheet" href="/assets/aos/aos.css">
     <style type="text/css">
         .logo {
             display: none;
@@ -176,9 +177,11 @@
     </style>
     @endpush
     @push('scripts')
+    <script src="/assets/aos/aos.js"></script>
     <script>
+        AOS.init();
         $(document).ready(function () {
-            $('.logo').fadeToggle(4000, "linear");
+            $('.logo').fadeToggle(1000, "linear");
         })
     </script>
     @endpush
