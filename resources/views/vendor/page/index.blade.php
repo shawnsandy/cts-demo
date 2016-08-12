@@ -15,7 +15,6 @@
             </div>
         </div>
     </header>
-
     <section class="feature" data-aos="fade-down">
         <div class="container">
             <div class="row text-center">
@@ -28,18 +27,13 @@
                     real-time benefits.
                 </p>
             </div>
-
         </div>
-
     </section>
 
     <main>
-
-
-
-            <div class="container">
+     <div class="container">
                 <div class="row">
-                    <div class="col-md-12 products text-center" data-aos="slide-right">
+                    <div class="col-md-12 products text-center" data-aos="fade-up">
                         <img src="/img/atlas-2.jpeg" alt="" class="img-responsive">
                         <h1>Atlas For Workforce</h1>
                         <p class="lead">
@@ -91,13 +85,9 @@
                         </p>
                     </div>
                 </div>
-
-
         </div>
-
-
     </main>
-    <section class="clients">
+    <section class="clients" data-aos="fade-up">
         <div class="container">
             <div class="row text-center">
                 <h2>Our Clients </h2>
@@ -163,10 +153,10 @@
     @push('scripts')
     <script src="/assets/aos/aos.js"></script>
     <script>
-        AOS.init();
         $(document).ready(function () {
             $('.logo').fadeToggle(1000, "linear");
-        })
+        });
+        AOS.init();
     </script>
     @endpush
 @endsection
