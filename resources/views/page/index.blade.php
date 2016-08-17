@@ -1,4 +1,4 @@
-@extends('page::page-layouts.default')
+@extends('page.page-layouts.default')
 @section('page')
     @include('shared.nav')
     <header class="index" data-aos="fade-down">
@@ -78,7 +78,7 @@
                     <div class="col-md-6 products">
 
                         <img src="/img/embedded.jpeg" alt="" class="img-responsive" data-aos="fade-down">
-                        <h3 class="lead text-center">Embedded Devices</h3>
+                        <h3 class="lead text-center">Kiosk and Embedded Devices</h3>
                         <p>
                             Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
                             empowerment. Competently extend parallel sources with parallel paradigms.
