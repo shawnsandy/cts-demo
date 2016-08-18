@@ -8,7 +8,7 @@
                     <div class="logo">
                         <h1>Complete Technology Solutions</h1>
                         <p class="lead">
-                            Our really cool elevator pitch goes here!
+                            Serving the IT Community since 1995
                         </p>
                     </div>
                 </div>
@@ -18,7 +18,7 @@
     <section class="feature" data-aos="fade-down">
         <div class="container">
             <div class="row text-center">
-                <h1>Welcome Message</h1>
+                <h1>Welcome</h1>
                 <p class="lead text-center">
                     Welcome to Complete Technology Solutions. We offer services to meet your businesses everyday
                     technology needs. From basic helpdesk support, to programming and development,
