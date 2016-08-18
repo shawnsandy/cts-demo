@@ -114,7 +114,7 @@
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    <img src="img/partners/cisco.jpg">
+                                    <img src="img/partners/cisco.png">
                                 </p>
                             </div>
                         </div>
@@ -137,6 +137,28 @@
                             <div class="layout-row">
                                 <p class="lead">
                                     <img src="img/partners/sonicwall.png">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    <img src="img/partners/vmware.png">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    <img src="img/partners/ubuntu.png">
                                 </p>
                             </div>
                         </div>
