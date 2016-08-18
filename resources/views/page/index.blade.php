@@ -98,7 +98,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -109,7 +109,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -120,7 +120,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -131,7 +131,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -142,7 +142,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -153,7 +153,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
