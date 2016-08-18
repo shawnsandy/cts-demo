@@ -49,7 +49,6 @@
                         system offers a fluid and clean experience for all. Employers can have ease finding the perfect intern with a clean user interface,
                         featuring user and administration dashboards, user friendly reporting, built in application and resume management, complete resource
                         center for all occupations, additional modules including professional and educational management.
-                        <br><center>http://myfloridaintern.com</center>
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
