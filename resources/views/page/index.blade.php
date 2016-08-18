@@ -8,7 +8,7 @@
                     <div class="logo">
                         <h1>Complete Technology Solutions</h1>
                         <p class="lead">
-                            Our really cool elevator pitch goes here!
+                            Serving the IT Community since 1995
                         </p>
                     </div>
                 </div>
@@ -18,7 +18,7 @@
     <section class="feature" data-aos="fade-down">
         <div class="container">
             <div class="row text-center">
-                <h1>Welcome Message</h1>
+                <h1>Welcome</h1>
                 <p class="lead text-center">
                     Welcome to Complete Technology Solutions. We offer services to meet your businesses everyday
                     technology needs. From basic helpdesk support, to programming and development,
@@ -49,7 +49,6 @@
                         system offers a fluid and clean experience for all. Employers can have ease finding the perfect intern with a clean user interface,
                         featuring user and administration dashboards, user friendly reporting, built in application and resume management, complete resource
                         center for all occupations, additional modules including professional and educational management.
-                        <br><span class="text-center">http://myfloridaintern.com</span>
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
@@ -98,7 +97,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -109,18 +108,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    <img src="img/partners/cisco.jpg">
+                                    <img src="img/partners/cisco.png">
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
@@ -131,12 +130,34 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="client-logo">
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
                                     <img src="img/partners/sonicwall.png">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    <img src="img/partners/vmware.png">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="client-logo">
+                        <div class="layout-table">
+                            <div class="layout-row">
+                                <p class="lead">
+                                    <img src="img/partners/ubuntu.png">
                                 </p>
                             </div>
                         </div>
