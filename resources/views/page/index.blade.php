@@ -23,20 +23,6 @@
                     Welcome to Complete Technology Solutions. We offer services to meet your businesses everyday
                     technology needs. From basic helpdesk support, to programming and development,
                     Complete Technology Solutions has you covered.
-                <ul>
-                    <li>From 1 computer in 1 office to hundreds of computers in multiple locations</li>
-                    <li>We can take over an existing network, or design one from scratch</li>
-                    <li>Servers, desktops, small-scale or large-scale upgrades</li>
-                    <li>Printer issues</li>
-                    <li>Surge suppression</li>
-                    <li>Internet connectivity issues</li>
-                    <li>File, network, and Internet security</li>
-                    <li>Backups</li>
-                    <li>Disaster planning</li>
-                    <li>Already use a computer company or have an IT person on staff? Use CTS for backup in case they
-                        can't make it.
-                    </li>
-                </ul>
                 </p>
             </div>
         </div>
@@ -49,24 +35,29 @@
                     <img src="/img/atlas-2.jpg" alt="" class="img-responsive">
                     <h1>Atlas For Workforce</h1>
                     <p class="lead">
-                        Assertively initiate accurate architectures and synergistic materials. Rapidiously
-                        recaptiualize cost effective e-commerce via 2.0 "outside the box" thinking.
+                        ATLAS is a highly customizable web-based platform designed from the ground up to streamline workflow and service delivery
+                        methods for Workforce Development agencies. ATLAS incorporates technology that empowers some of the Nations largest and
+                        busiest Workforce Boards to efficiently track customers, archive activity and documents and inclusively link all information
+                        utilizing a centralized application.
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
                     <img src="/img/interns.jpeg">
                     <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
                     <p>
-                        Globally recaptiualize highly efficient services for e-business technology. Conveniently
-                        enable state of the art alignments vis-a-vis professional e-business.
+                        Atlas Intern and Recruitment is your 1 stop solution for your internship portal. Designed with the customer in mind, this
+                        system offers a fluid and clean experience for all. Employers can have ease finding the perfect intern with a clean user interface,
+                        featuring user and administration dashboards, user friendly reporting, built in application and resume management, complete resource
+                        center for all occupations, additional modules including professional and educational management.
+                        <br><center>http://myfloridaintern.com</center>
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
                     <img src="/img/development.jpg">
                     <h3 class="lead text-center">Web and Application Development</h3>
                     <p>
-                        Enthusiastically leverage existing collaborative users after enterprise-wide web services.
-                        Distinctively reinvent customized functionalities after virtual growth strategies.
+                        From basic websites to complete web applications, our development team gets the job done! Our developers work with the latest frameworks to
+                        provide our clients with a perfect solution to accommodate any software need.
                     </p>
                 </div>
 
@@ -75,16 +66,17 @@
                     <img src="/img/atlas-network.jpg">
                     <h1 class="">Network and System Management</h1>
                     <p class="lead">
-                        Holisticly morph emerging innovation whereas mission-critical process improvements.
-                        Efficiently provide access to cross-media systems before tactical scenarios.
+                        Our Network and systems administration team has your businesses back! Offering 24/7 monitoring and technical assistance, we keep your network
+                        and systems up and running. With Complete Technology Solutions managing your computer infrastructure, you will have the ease of ming knowing
+                        that not only is your systems are functional, but also secure.
                     </p>
                 </div>
                 <div class="col-md-6 products">
                     <img src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
                     <h3 class="lead text-center">IT Sales and Support</h3>
                     <p>
-                        Competently architect customer directed platforms without superior deliverables.
-                        Compellingly visualize functionalized methodologies without business convergence.
+                        Partnered with the leading vendors in the industry, we offer competitive pricing on all your businesses technology needs. Backing up our sales with
+                        our dedicated support team, allows you to concentrate on your work, and not on your IT related issues.
                     </p>
                 </div>
                 <div class="col-md-6 products">
@@ -92,8 +84,8 @@
                     <img src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
                     <h3 class="lead text-center">Embedded Devices</h3>
                     <p>
-                        Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
-                        empowerment. Competently extend parallel sources with parallel paradigms.
+                        Our kiosks utilize the most advanced PC technology on the market - Embedded Technology. No moving parts means no hardware failures. KioskPros
+                        offers the overall lowest unit price. All prices quoted are for turnkey units. No surprises, no add-ons like other kiosk vendors.
                     </p>
                 </div>
             </div>
@@ -102,7 +94,7 @@
     <section class="clients" data-aos="fade-up">
         <div class="container">
             <div class="row text-center">
-                <h2>Our Clients </h2>
+                <h2>Our Partners </h2>
             </div>
 
             <div class="row">
@@ -111,7 +103,7 @@
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    [ CLIENT LOGO HERE ]
+                                    <img src="img/partners/microsoft.png">
                                 </p>
                             </div>
                         </div>
@@ -122,7 +114,7 @@
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    [ CLIENT LOGO HERE ]
+                                    <img src="img/partners/cisco.jpg">
                                 </p>
                             </div>
                         </div>
@@ -133,7 +125,7 @@
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    [ CLIENT LOGO HERE ]
+                                    <img src="img/partners/dell.png">
                                 </p>
                             </div>
                         </div>
@@ -144,7 +136,7 @@
                         <div class="layout-table">
                             <div class="layout-row">
                                 <p class="lead">
-                                    [ CLIENT LOGO HERE ]
+                                    <img src="img/partners/sonicwall.png">
                                 </p>
                             </div>
                         </div>
