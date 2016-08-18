@@ -49,7 +49,7 @@
                         system offers a fluid and clean experience for all. Employers can have ease finding the perfect intern with a clean user interface,
                         featuring user and administration dashboards, user friendly reporting, built in application and resume management, complete resource
                         center for all occupations, additional modules including professional and educational management.
-                        <br><center>http://myfloridaintern.com</center>
+                        <br><span class="text-center">http://myfloridaintern.com</span>
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
@@ -62,7 +62,7 @@
                 </div>
 
 
-                <div class="col-md-12 products text-center" data-aos="slide-left">
+                <div class="col-md-12 products text-center" data-aos="slide-up">
                     <img src="/img/atlas-network.jpg">
                     <h1 class="">Network and System Management</h1>
                     <p class="lead">
