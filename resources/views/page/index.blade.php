@@ -1,4 +1,4 @@
-@extends('page::page-layouts.default')
+@extends('page.page-layouts.default')
 @section('page')
     @include('shared.nav')
     <header class="index" data-aos="fade-down">
