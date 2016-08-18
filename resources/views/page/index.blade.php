@@ -34,7 +34,7 @@
      <div class="container">
                 <div class="row">
                     <div class="col-md-12 products text-center" data-aos="fade-up">
-                        <img src="/img/atlas-2.jpeg" alt="" class="img-responsive">
+                        <img src="/img/atlas-2.jpg" alt="" class="img-responsive">
                         <h1>Atlas For Workforce</h1>
                         <p class="lead">
                             Assertively initiate accurate architectures and synergistic materials. Rapidiously
@@ -50,7 +50,7 @@
                         </p>
                     </div>
                     <div class="col-md-6 products" data-aos="fade-down">
-                        <img src="/img/development.jpeg">
+                        <img src="/img/development.jpg">
                         <h3 class="lead text-center">Web and Application Development</h3>
                         <p>
                             Enthusiastically leverage existing collaborative users after enterprise-wide web services.
@@ -60,7 +60,7 @@
 
 
                     <div class="col-md-12 products text-center" data-aos="slide-left">
-                        <img src="/img/atlas-network-2.jpeg">
+                        <img src="/img/atlas-network.jpg">
                         <h1 class="">Network and System Management</h1>
                         <p class="lead">
                             Holisticly morph emerging innovation whereas mission-critical process improvements.
@@ -68,7 +68,7 @@
                         </p>
                     </div>
                     <div class="col-md-6 products">
-                        <img src="/img/it.jpeg" alt="" class="img-responsive" data-aos="fade-down">
+                        <img src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
                         <h3 class="lead text-center">IT Sales and Support</h3>
                         <p>
                             Competently architect customer directed platforms without superior deliverables.
@@ -77,7 +77,7 @@
                     </div>
                     <div class="col-md-6 products">
 
-                        <img src="/img/embedded.jpeg" alt="" class="img-responsive" data-aos="fade-down">
+                        <img src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
                         <h3 class="lead text-center">Embedded Devices</h3>
                         <p>
                             Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
