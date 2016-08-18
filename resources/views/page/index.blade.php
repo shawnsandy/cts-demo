@@ -20,71 +20,83 @@
             <div class="row text-center">
                 <h1>Welcome Message</h1>
                 <p class="lead text-center">
-                    Synergistically procrastinate sustainable intellectual capital rather than interdependent leadership
-                    skills. Objectively myocardinate high-quality content through team driven technology. Interactively
-                    syndicate 24/365 networks through virtual leadership. Monotonectally utilize competitive data before
-                    resource sucking infomediaries. Collaboratively pontificate stand-alone relationships after
-                    real-time benefits.
+                    Welcome to Complete Technology Solutions. We offer services to meet your businesses everyday
+                    technology needs. From basic helpdesk support, to programming and development,
+                    Complete Technology Solutions has you covered.
+                <ul>
+                    <li>From 1 computer in 1 office to hundreds of computers in multiple locations</li>
+                    <li>We can take over an existing network, or design one from scratch</li>
+                    <li>Servers, desktops, small-scale or large-scale upgrades</li>
+                    <li>Printer issues</li>
+                    <li>Surge suppression</li>
+                    <li>Internet connectivity issues</li>
+                    <li>File, network, and Internet security</li>
+                    <li>Backups</li>
+                    <li>Disaster planning</li>
+                    <li>Already use a computer company or have an IT person on staff? Use CTS for backup in case they
+                        can't make it.
+                    </li>
+                </ul>
                 </p>
             </div>
         </div>
     </section>
 
     <main>
-     <div class="container">
-                <div class="row">
-                    <div class="col-md-12 products text-center" data-aos="fade-up">
-                        <img src="/img/atlas-2.jpg" alt="" class="img-responsive">
-                        <h1>Atlas For Workforce</h1>
-                        <p class="lead">
-                            Assertively initiate accurate architectures and synergistic materials. Rapidiously
-                            recaptiualize cost effective e-commerce via 2.0 "outside the box" thinking.
-                        </p>
-                    </div>
-                    <div class="col-md-6 products" data-aos="fade-down">
-                        <img src="/img/interns.jpeg">
-                        <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
-                        <p>
-                            Globally recaptiualize highly efficient services for e-business technology. Conveniently
-                            enable state of the art alignments vis-a-vis professional e-business.
-                        </p>
-                    </div>
-                    <div class="col-md-6 products" data-aos="fade-down">
-                        <img src="/img/development.jpg">
-                        <h3 class="lead text-center">Web and Application Development</h3>
-                        <p>
-                            Enthusiastically leverage existing collaborative users after enterprise-wide web services.
-                            Distinctively reinvent customized functionalities after virtual growth strategies.
-                        </p>
-                    </div>
-
-
-                    <div class="col-md-12 products text-center" data-aos="slide-left">
-                        <img src="/img/atlas-network.jpg">
-                        <h1 class="">Network and System Management</h1>
-                        <p class="lead">
-                            Holisticly morph emerging innovation whereas mission-critical process improvements.
-                            Efficiently provide access to cross-media systems before tactical scenarios.
-                        </p>
-                    </div>
-                    <div class="col-md-6 products">
-                        <img src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
-                        <h3 class="lead text-center">IT Sales and Support</h3>
-                        <p>
-                            Competently architect customer directed platforms without superior deliverables.
-                            Compellingly visualize functionalized methodologies without business convergence.
-                        </p>
-                    </div>
-                    <div class="col-md-6 products">
-
-                        <img src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
-                        <h3 class="lead text-center">Embedded Devices</h3>
-                        <p>
-                            Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
-                            empowerment. Competently extend parallel sources with parallel paradigms.
-                        </p>
-                    </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 products text-center" data-aos="fade-up">
+                    <img src="/img/atlas-2.jpg" alt="" class="img-responsive">
+                    <h1>Atlas For Workforce</h1>
+                    <p class="lead">
+                        Assertively initiate accurate architectures and synergistic materials. Rapidiously
+                        recaptiualize cost effective e-commerce via 2.0 "outside the box" thinking.
+                    </p>
                 </div>
+                <div class="col-md-6 products" data-aos="fade-down">
+                    <img src="/img/interns.jpeg">
+                    <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
+                    <p>
+                        Globally recaptiualize highly efficient services for e-business technology. Conveniently
+                        enable state of the art alignments vis-a-vis professional e-business.
+                    </p>
+                </div>
+                <div class="col-md-6 products" data-aos="fade-down">
+                    <img src="/img/development.jpg">
+                    <h3 class="lead text-center">Web and Application Development</h3>
+                    <p>
+                        Enthusiastically leverage existing collaborative users after enterprise-wide web services.
+                        Distinctively reinvent customized functionalities after virtual growth strategies.
+                    </p>
+                </div>
+
+
+                <div class="col-md-12 products text-center" data-aos="slide-left">
+                    <img src="/img/atlas-network.jpg">
+                    <h1 class="">Network and System Management</h1>
+                    <p class="lead">
+                        Holisticly morph emerging innovation whereas mission-critical process improvements.
+                        Efficiently provide access to cross-media systems before tactical scenarios.
+                    </p>
+                </div>
+                <div class="col-md-6 products">
+                    <img src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
+                    <h3 class="lead text-center">IT Sales and Support</h3>
+                    <p>
+                        Competently architect customer directed platforms without superior deliverables.
+                        Compellingly visualize functionalized methodologies without business convergence.
+                    </p>
+                </div>
+                <div class="col-md-6 products">
+
+                    <img src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
+                    <h3 class="lead text-center">Embedded Devices</h3>
+                    <p>
+                        Enthusiastically deliver process-centric catalysts for change after bleeding-edge methods of
+                        empowerment. Competently extend parallel sources with parallel paradigms.
+                    </p>
+                </div>
+            </div>
         </div>
     </main>
     <section class="clients" data-aos="fade-up">
