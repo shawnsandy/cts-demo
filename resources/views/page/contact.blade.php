@@ -25,8 +25,30 @@
                 <div class="col-md-offset-2"></div>
                 <div class="col-md-5">
                     {{--<h2 class="text-center"><i class="fa fa-envelope" aria-hidden="true"></i>Email</h2>--}}
+                    <form id="contact-form" action="/">
+                        {{ csrf_field() }}
+                        <p>
+                            {{--<label for="full_name">Your Name</label>--}}
+                            <input type="text" name="full_name" class="form-control" placeholder="Enter your name">
+                        </p>
+                        <p>
+                            {{--<label for="email">Email</label>--}}
+                            <input type="email" name="email" class="form-control" placeholder="Email address">
+                        </p>
+                        <p>
+                            {{--<label for="subject">Subject</label>--}}
+                            <input type="text" name="subject" class="form-control" placeholder="Subject">
+                        </p>
+                        <p>
+                            {{--<label for="subject">Message</label>--}}
 
-                    @include('page::shared.contact-form')
+                            <textarea name="message" id="subject" cols="30" rows="8" class="form-control" placeholder="Message"></textarea>
+                        </p>
+                        <p class="text-right">
+                            <button class="btn btn-success text-capitalize" type="submit">Send And Lets Talk</button>
+                        </p>
+                    </form>
+
                 </div>
             </div>
 
