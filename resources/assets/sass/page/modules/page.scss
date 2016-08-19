@@ -80,15 +80,15 @@ footer {
   vertical-align: middle;
 }
 
-.cover {
-  height: 100%;
-}
-
 .g-map {
   padding: 10px;
   box-sizing: border-box;
   border-radius: 0;
   background-color: #EEEEEE;
+}
+
+.cover {
+  height: 100%;
 }
 
 #contact-form {
@@ -114,10 +114,10 @@ footer {
 
 .team-images {
 
-  margin: 20px 0 20px 0;
-  img {
-    box-sizing: border-box;
-    padding: 20px;
-  }
+    margin: 20px 0 20px 0;
+    img {
+        box-sizing: border-box;
+        padding: 20px;
+    }
 
 }

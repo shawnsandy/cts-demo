@@ -47,7 +47,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 40%;
+  height: 300px;
 }
 
 header.index {
@@ -128,6 +128,45 @@ main {
 .clients {
   background-color: $gray-lighter;
 }
+
 .client-logo {
   height: 200px;
+}
+
+.g-map {
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 0;
+  background-color: #EEEEEE;
+}
+
+#contact-form {
+  label {
+    font-size: 12px;
+    font-weight: normal;
+    color: $gray-lighter;
+  }
+
+  input {
+    border: none;
+    border-bottom: dotted 1px $gray-light;
+    box-shadow: none;
+    margin-bottom: 20px;
+  }
+
+  textarea {
+    margin: 30px 0  20px 0;
+    border: dotted 1px $gray-light;
+  }
+
+}
+
+.team-images {
+
+  margin: 20px 0 20px 0;
+  img {
+    box-sizing: border-box;
+    padding: 20px;
+  }
+
 }

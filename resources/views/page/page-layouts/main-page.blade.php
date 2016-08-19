@@ -24,6 +24,9 @@
 
     </section>
 </header>
-@yield('content')
+<main>
+    @yield('content')
+</main>
 
+@include('shared.footer')
 @endsection
