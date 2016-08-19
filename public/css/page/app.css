@@ -5835,7 +5835,8 @@ main {
   border: none;
   border-bottom: dotted 1px #777777;
   box-shadow: none;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  background-color: transparent; }
 
 #contact-form textarea {
   margin: 30px 0  20px 0;
