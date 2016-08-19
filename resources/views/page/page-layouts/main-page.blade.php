@@ -15,7 +15,7 @@
                 <div class="logo">
                     <h1>Complete Technology Solutions</h1>
                     <p class="lead">
-                        Our really cool elevator pitch goes here!
+                        Serving the IT Community since 1995
                     </p>
                 </div>
             </div>
