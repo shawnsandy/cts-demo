@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 products text-center" data-aos="fade-up">
-                    <img src="/img/atlas-2.jpg" alt="" class="img-responsive">
+                    <img class="img-responsive" src="/img/atlas-2.jpg" alt="" class="img-responsive">
                     <h1>Atlas For Workforce</h1>
                     <p class="lead">
                         ATLAS is a highly customizable web-based platform designed from the ground up to streamline workflow and service delivery
@@ -42,7 +42,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
-                    <img src="/img/interns.jpeg">
+                    <img class="img-responsive" src="/img/interns.jpeg">
                     <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
                     <p>
                         Atlas Intern and Recruitment is your 1 stop solution for your internship portal. Designed with the customer in mind, this
@@ -52,7 +52,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
-                    <img src="/img/development.jpg">
+                    <img class="img-responsive" src="/img/development.jpg">
                     <h3 class="lead text-center">Web and Application Development</h3>
                     <p>
                         From basic websites to complete web applications, our development team gets the job done! Our developers work with the latest frameworks to
@@ -62,7 +62,7 @@
 
 
                 <div class="col-md-12 products text-center" data-aos="slide-up">
-                    <img src="/img/atlas-network.jpg">
+                    <img class="img-responsive" src="/img/atlas-network.jpg">
                     <h1 class="">Network and System Management</h1>
                     <p class="lead">
                         Our Network and systems administration team has your businesses back! Offering 24/7 monitoring and technical assistance, we keep your network
@@ -71,7 +71,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 products">
-                    <img src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
+                    <img class="img-responsive" src="/img/it.jpg" alt="" class="img-responsive" data-aos="fade-down">
                     <h3 class="lead text-center">IT Sales and Support</h3>
                     <p>
                         Partnered with the leading vendors in the industry, we offer competitive pricing on all your businesses technology needs. Backing up our sales with
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-md-6 products">
 
-                    <img src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
+                    <img class="img-responsive" src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
                     <h3 class="lead text-center">Embedded Devices</h3>
                     <p>
                         Our kiosks utilize the most advanced PC technology on the market - Embedded Technology. No moving parts means no hardware failures. KioskPros
