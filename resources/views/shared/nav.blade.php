@@ -39,11 +39,11 @@
                 <!-- Authentication Links -->
                 @if (Auth::guest())
                      <li>
-                         <a href="/page/about">About</a>
+                         <a href="/pages/about">About</a>
 
                      </li>
                 <li>
-                    <a href="/page/contact">Contact</a>
+                    <a href="/pages/contact">Contact</a>
                 </li>
                     {{--<li><a href="{{ url('/login') }}">Login</a></li>--}}
                     {{--<li><a href="{{ url('/register') }}">Register</a></li>--}}
