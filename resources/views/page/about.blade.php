@@ -14,9 +14,7 @@
                 <h1>About Us</h1>
 
                 <p>
-                    Complete Technology Solutions (CTS) was founded in 1997 by Maurice Ryman. Over the past 15 years
-                    Maurice has grown his company from a single employee with a one room office to a large dynamic
-                    company with many wonderful long-time employees. After a few years of providing IT services
+                    After a few years of providing IT services
                     specifically to the Workforce Development Industry, the CTS team noticed a need for integrated
                     document management and service tracking for the Workforce Development Industry. Since the standard
                     document management programs that were available were not catered toward Workforce development and
