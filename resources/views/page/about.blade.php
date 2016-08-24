@@ -2,6 +2,7 @@
 @section('content')
     <div class="container">
         <div class="row">
+
             <div class="col-md-12 text-center">
                 <p class="lead">
                     Complete Technology Solutions (CTS) was founded in 1997 by Maurice Ryman. Over the past 15 years
@@ -12,7 +13,6 @@
 
             <div class="col-md-9 text-justify">
                 <h1>About Us</h1>
-
                 <p>
                     After a few years of providing IT services
                     specifically to the Workforce Development Industry, the CTS team noticed a need for integrated
@@ -32,11 +32,10 @@
 
             </div>
             <div class="col-md-3">
-                <h4>CTS Group of Companies</h4>
-
+                <h5 class="text-center">CTS Group of Companies</h5>
             </div>
             <div class="col-md-12">
-                <h2>Our Team</h2>
+                <h2 class="text-center">Our Team</h2>
                 <hr>
                 <div class="row">
                     <div class="team-images text-center">
