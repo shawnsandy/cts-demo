@@ -10,7 +10,7 @@
                 </p>
             </div>
 
-            <div class="col-md-10">
+            <div class="col-md-9 text-justify">
                 <h1>About Us</h1>
 
                 <p>
@@ -31,6 +31,10 @@
                 <p>
                     As we fast forward to 2015/2016 we once again recognized the need for a dynamic easy to use collaboration platform that can connect Individuals and Employers to Opportunities. Our team got together to develop and launch the Atlas Intern & Recruitment (AIR) platform.
                 </p>
+
+            </div>
+            <div class="col-md-3">
+                <h4>CTS Group of Companies</h4>
 
             </div>
             <div class="col-md-12">
