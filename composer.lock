@@ -2849,16 +2849,16 @@
         },
         {
             "name": "shawnsandy/pagekit",
-            "version": "v1.4.1",
+            "version": "v1.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shawnsandy/pagekit.git",
-                "reference": "8cb37f026db77bf25bd449bbd00058e966e97be3"
+                "reference": "8a2310ec5faa3259eef52e0b8d98e9ca3b54073c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/8cb37f026db77bf25bd449bbd00058e966e97be3",
-                "reference": "8cb37f026db77bf25bd449bbd00058e966e97be3",
+                "url": "https://api.github.com/repos/shawnsandy/pagekit/zipball/8a2310ec5faa3259eef52e0b8d98e9ca3b54073c",
+                "reference": "8a2310ec5faa3259eef52e0b8d98e9ca3b54073c",
                 "shasum": ""
             },
             "require": {
@@ -2919,7 +2919,7 @@
                 "pagekit",
                 "shawnsandy"
             ],
-            "time": "2016-08-18 16:13:05"
+            "time": "2016-08-24 13:29:40"
         },
         {
             "name": "spatie/geocoder",
