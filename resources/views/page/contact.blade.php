@@ -4,14 +4,11 @@
         <div class="row">
             <div class="container text-center">
                 <h1 class="text-capitalize text-center" data-aos="zomm-in">We would love to hear from you.</h1>
-                <p class="lead">Visit us at {{ config('pagekit.address') }}, Email or via Social Media, we look forward to hearing from you.</p>
+                <p class="lead">
+                    Visit us at {{ config('pagekit.address') }}, Email or via Social Media, we look forward to hearing from you.
+                </p>
             </div>
             <div class="row">
-
-                <section>
-
-
-                </section>
                 <div class="col-md-6">
                     {{--<h2 class="text-center"><i class="fa fa-envelope" aria-hidden="true"></i> Visit Us</h2>--}}
 
