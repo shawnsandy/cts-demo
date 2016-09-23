@@ -54,6 +54,11 @@ return [
             'visibility' => 'public',
         ],
 
+        'posts' => [
+            'driver' => 'local',
+            'root' => storage_path('app/markdown'),
+        ],
+
         's3' => [
             'driver' => 's3',
             'key' => 'your-key',
