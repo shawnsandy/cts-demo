@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: shawnsandy
- * Date: 8/1/16
- * Time: 4:31 PM
- */
-
-?>
 <nav class="navbar navbar-default navbar-static-top">
     <div class="container">
         <div class="navbar-header">
@@ -21,34 +12,29 @@
             </button>
 
             <!-- Branding Image -->
-            <a class="navbar-brand" href="{{ url('/') }}" style="padding-top: 20px">
-               <span class="text-primary">
-                   <img src="/img/cts-logo-nav.png" alt="Logo">
-               </span>
+            <a class="navbar-brand" href="{{ url('/') }}">
+                {{ config('pagekit.company_name', 'PageKit') }}
             </a>
         </div>
 
         <div class="collapse navbar-collapse" id="app-navbar-collapse">
             <!-- Left Side Of Navbar -->
-            {{--<ul class="nav navbar-nav">--}}
-                {{--<li><a href="{{ url('/home') }}">Home</a></li>--}}
-            {{--</ul>--}}
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="{{ url('/page/about') }}">About</a>
+                </li>
+                <li>
+                    <a href="{{ url('/page/contact') }}">Contact</a>
+                </li>
+            </ul>
 
             <!-- Right Side Of Navbar -->
             <ul class="nav navbar-nav navbar-right">
                 <!-- Authentication Links -->
                 @if (Auth::guest())
-                     <li>
-                         <a href="/pages/about">About</a>
-                     </li>
-                <li>
-                    <a href="/pages/contact">Contact</a>
-                </li>
-                <li>
-                    <a href="/md/support">Support</a>
-                </li>
-                    {{--<li><a href="{{ url('/login') }}">Login</a></li>--}}
-                    {{--<li><a href="{{ url('/register') }}">Register</a></li>--}}
+
+                    <li><a href="{{ url('page/login') }}">Login or Register</a></li>
+
 
                 @else
 
