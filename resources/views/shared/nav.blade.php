@@ -39,7 +39,7 @@
                 <!-- Authentication Links -->
                 @if (Auth::guest())
                      <li>
-                         <a href="/pages/about">About</a>
+                        <a href="/pages/about">About</a>
                      </li>
                 <li>
                     <a href="/pages/contact">Contact</a>

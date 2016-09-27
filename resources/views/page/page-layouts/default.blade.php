@@ -5,7 +5,7 @@
     <title>Laravel</title>
 
     @stack('styles')
-    
+    <script src="https://use.fontawesome.com/00be46f2fc.js"></script>
     <link rel="stylesheet" href="/css/page/app.css">
 
 </head>
