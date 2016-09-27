@@ -45,10 +45,8 @@
                     <img class="img-responsive" src="/img/interns.jpeg">
                     <h3 class="lead text-center">Atlas Intern and Recruitment</h3>
                     <p>
-                        Atlas Intern and Recruitment is your 1 stop solution for your internship portal. Designed with the customer in mind, this
-                        system offers a fluid and clean experience for all. Employers can have ease finding the perfect intern with a clean user interface,
-                        featuring user and administration dashboards, user friendly reporting, built in application and resume management, complete resource
-                        center for all occupations, additional modules including professional and educational management.
+                        Atlas Intern and Recruitment is a powerful SASS application that connects individuals to opportunities. Offering a fluid and clean experience for all. With a clean user interface,
+                        featuring user and administration dashboards, user friendly reporting, built in application and resume management.
                     </p>
                 </div>
                 <div class="col-md-6 products" data-aos="fade-down">
@@ -81,7 +79,7 @@
                 <div class="col-md-6 products">
 
                     <img class="img-responsive" src="/img/embedded.jpg" alt="" class="img-responsive" data-aos="fade-down">
-                    <h3 class="lead text-center">Embedded Devices</h3>
+                    <h3 class="lead text-center">Kiosk and Embedded Devices</h3>
                     <p>
                         Our kiosks utilize the most advanced PC technology on the market - Embedded Technology. No moving parts means no hardware failures. KioskPros
                         offers the overall lowest unit price. All prices quoted are for turnkey units. No surprises, no add-ons like other kiosk vendors.

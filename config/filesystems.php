@@ -54,7 +54,7 @@ return [
             'visibility' => 'public',
         ],
 
-        'posts' => [
+        'markdown' => [
             'driver' => 'local',
             'root' => storage_path('app/markdown'),
         ],

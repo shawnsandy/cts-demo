@@ -23,7 +23,7 @@
             <!-- Branding Image -->
             <a class="navbar-brand" href="{{ url('/') }}" style="padding-top: 20px">
                <span class="text-primary">
-                   <img src="/img/cts-logo.png" alt="Logo">
+                   <img src="/img/cts-logo-nav.png" alt="Logo">
                </span>
             </a>
         </div>
