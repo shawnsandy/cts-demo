@@ -5781,6 +5781,9 @@ p {
   font-size: 16px;
   line-height: 1.6; }
 
+.lead {
+  font-size: 21px; }
+
 .products {
   margin-bottom: 60px; }
 
