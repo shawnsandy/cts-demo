@@ -26,19 +26,19 @@ Spring Hill, FL  34607
 
 
 #### Downloads
-[Gloval VPN Client, V4.6, 32-bit](#)
-[Global VPN Client, V4.6, 64-bit](#)
-
-[Global VPN Client, V4.2 (64 Bit)](#)
-[Global VPN Client, V4.2](#)
-[Global VPN Client, V4](#)
-[Global VPN Client, V3](#)
-[TeamViewer](#)
-
-[RealVNC](#)
-[Jeopardy Think Music](#)
+* [Gloval VPN Client, V4.6, 32-bit](#)
+* [Global VPN Client, V4.6, 64-bit](#)
+----------
+* [Global VPN Client, V4.2 64 Bit](#)
+* [Global VPN Client, V4.2](#)
+* [Global VPN Client, V4](#)
+* [Global VPN Client, V3](#)
+* [TeamViewer](#)
+--------------
+* [RealVNC](#)
+* [Jeopardy Think Music](#)
  
-[Remote Support](#)
+* [Remote Support](#)
  
-[Novanet-Web 6.2 Client](#)
-[Username/Password must be provided by CTS](#)
+* [Novanet-Web 6.2 Client](#)
+* [Username/Password must be provided by CTS](#)

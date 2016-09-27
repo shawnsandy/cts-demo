@@ -12,3 +12,4 @@ Homestead.json
 *.iml
 out
 gen
+/public/downloads/
