@@ -5,9 +5,8 @@
 ________________
  
 #### If you are new to hosting with CTS:
-Welcome aboard!
- 
- 
+ Welcome aboard!
+  
 #### On-Site Support Services
 Great support plans are available
 
@@ -16,7 +15,7 @@ Great support plans are available
 
 
 #### Email:
-support@ctsfla.com
+[support@ctsfla.com](/pages/contact)
 
 
 #### Business Office: 
