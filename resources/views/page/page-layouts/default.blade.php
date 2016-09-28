@@ -5,7 +5,8 @@
     <title>Laravel</title>
 
     @stack('styles')
-    <script src="https://use.fontawesome.com/00be46f2fc.js"></script>
+    <link href="/css/pagekit/fonts/material-icons/style.css" rel="stylesheet">
+    <link href="/css/pagekit/fonts/social/style.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/page/app.css">
 
 </head>
