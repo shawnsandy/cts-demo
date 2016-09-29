@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <title>Laravel</title>
+    <title>{{ config('pagekit.page_title') }}</title>
 
     @stack('styles')
     <link href="/css/pagekit/fonts/material-icons/style.css" rel="stylesheet">

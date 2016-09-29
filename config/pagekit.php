@@ -2,7 +2,7 @@
 
 return [
 
-'page_title' => 'Laravel PageKit ',
+'page_title' => 'Complete Technology Solutions',
 
 'page_slug' => 'Quick start pages for Laravel.',
 
