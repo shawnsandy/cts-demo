@@ -40,5 +40,4 @@ Great support plans are available
  
 * [Remote Support](#)
  
-* [Novanet-Web 6.2 Client](#)
-* [Username/Password must be provided by CTS](#)
+* [Novanet-Web 6.2 Client](#) *Username/Password must be provided by CTS*

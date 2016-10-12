@@ -13,48 +13,36 @@
 
             <div class="col-md-9 text-justify">
                 <h1>About Us</h1>
-                <p>
-                    After a few years of providing IT services
-                    specifically to the Workforce Development Industry, the CTS team noticed a need for integrated
-                    document management and service tracking for the Workforce Development Industry. Since the standard
-                    document management programs that were available were not catered toward Workforce development and
-                    lacked many of the components that One-Stops were needing and looking for.
-                </p>
+                <p> Complete Technology Solutions (CTS) has been serving the IT community for over 15 years. Our
+                    experience has helped companies and individuals manage their resources to the fullest ability.</p>
 
-                <p>
-                    Thanks to many talented minds, ATLAS is being utilized by numerous Workforce Boards and over
-                    1,000,000 One Stop customers and counting.
-                </p>
+                <p> Inspired by a vision to create a leading edge software and hardware support firm, CTS has grown to
+                    be a premier provider of services in the Tampa Bay Area. Our evolution since we started way back in
+                    1997 is a testament to the continued evaluation and reaction we undergo as new emerging technologies
+                    are implemented.</p>
 
-                <p>
-                    As we fast forward to 2015/2016 we once again recognized the need for a dynamic easy to use collaboration platform that can connect Individuals and Employers to Opportunities. Our team got together to develop and launch the Atlas Intern & Recruitment (AIR) platform.
+                <p> Learn why more than 1,000 companies have chosen CTS to manage their software, hardware and network
+                    infrastructure and see how we build lasting relationships with customers, employees, partners, and
+                    others.
                 </p>
+                <p> Contact us today! (link to contact us)</p>
+
 
             </div>
             <div class="col-md-3">
                 <h5 class="text-center">CTS Group of Companies</h5>
             </div>
-            <div class="col-md-12">
-                <h2 class="text-center">Our Team</h2>
-                <hr>
-                <div class="row">
-                    <div class="team-images text-center">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                        <img src="http://placehold.it/140x140" class="img-circle">
-                    </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="text-center">We're Moving</h2>
+                    <p class="lead text-center">We are moving to brand new state of the art office space.</p>
                 </div>
-                <hr>
-                <p>Aut culpa cum, debitis molestias neque voluptates!
-                    Iusto, magni, odio? Assumenda ducimus explicabo id inventore natus nihil nostrum officiis quos.
-                    Assumenda
-                    excepturi impedit minus mollitia nam, qui, quo rem reprehenderit repudiandae similique soluta sunt,
-                    voluptatibus?
-                </p>
+                <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
+                <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
+
             </div>
         </div>
     </div>
+
 @endsection

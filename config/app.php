@@ -161,6 +161,13 @@ return [
         // Nwidart\Modules\LaravelModulesServiceProvider::class,
          ShawnSandy\PageKit\PageKitServiceProvider::class,
 
+        Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
+        JeroenG\Packager\PackagerServiceProvider::class,
+        Sven\EnvProviders\EnvServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Brotzka\DotenvEditor\DotenvEditorServiceProvider::class,
+        Laravel\Socialite\SocialiteServiceProvider::class,
+
 
     ],
 
@@ -210,6 +217,9 @@ return [
 
         // vendors
         'Module' => Nwidart\Modules\Facades\Module::class,
+        'DotenvEditor' => Brotzka\DotenvEditor\DotenvEditorFacade::class,
+        'Breadcrumbs' => ShawnSandy\PageKit\Facades\BreadcrumbFacade::class,
+        'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
     ],
 
