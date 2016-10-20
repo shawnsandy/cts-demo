@@ -217,7 +217,6 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
         // vendors
-        'Module' => Nwidart\Modules\Facades\Module::class,
         'DotenvEditor' => Brotzka\DotenvEditor\DotenvEditorFacade::class,
         'Breadcrumbs' => ShawnSandy\PageKit\Facades\BreadcrumbFacade::class,
         'MKD' => ShawnSandy\PageKit\Facades\MarkdownFacade::class,
