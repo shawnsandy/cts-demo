@@ -220,6 +220,7 @@ return [
         'Module' => Nwidart\Modules\Facades\Module::class,
         'DotenvEditor' => Brotzka\DotenvEditor\DotenvEditorFacade::class,
         'Breadcrumbs' => ShawnSandy\PageKit\Facades\BreadcrumbFacade::class,
+        'MKD' => ShawnSandy\PageKit\Facades\MarkdownFacade::class,
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
     ],
