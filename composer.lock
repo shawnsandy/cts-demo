@@ -2348,16 +2348,16 @@
         },
         {
             "name": "shawnsandy/pagekit",
-            "version": "v1.0.34",
+            "version": "v1.0.35",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shawnsandy/ui-pages.git",
-                "reference": "a0992aaeff887ba088a046cd3b52708d1eb99635"
+                "reference": "ef7768ce017f5ee2d1e826fc1684ca7ec8ed8a32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawnsandy/ui-pages/zipball/a0992aaeff887ba088a046cd3b52708d1eb99635",
-                "reference": "a0992aaeff887ba088a046cd3b52708d1eb99635",
+                "url": "https://api.github.com/repos/shawnsandy/ui-pages/zipball/ef7768ce017f5ee2d1e826fc1684ca7ec8ed8a32",
+                "reference": "ef7768ce017f5ee2d1e826fc1684ca7ec8ed8a32",
                 "shasum": ""
             },
             "require": {
@@ -2375,7 +2375,8 @@
                 "michelf/php-markdown": "^1.6",
                 "php": "~5.6|~7.0",
                 "rap2hpoutre/laravel-log-viewer": "^0.6.0",
-                "sven/env-providers": "^3.0"
+                "sven/env-providers": "^3.0",
+                "vinkla/shield": "^1.2"
             },
             "require-dev": {
                 "phpunit/phpunit": "~4.0||~5.0",
@@ -2411,7 +2412,7 @@
                 "pagekit",
                 "shawnsandy"
             ],
-            "time": "2016-10-10 23:30:31"
+            "time": "2016-10-16 14:54:13"
         },
         {
             "name": "sven/env-providers",
@@ -3293,6 +3294,60 @@
                 "dump"
             ],
             "time": "2016-09-29 14:13:09"
+        },
+        {
+            "name": "vinkla/shield",
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vinkla/laravel-shield.git",
+                "reference": "f14c66086a350c8993a81b8fc67f40b82654713c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vinkla/laravel-shield/zipball/f14c66086a350c8993a81b8fc67f40b82654713c",
+                "reference": "f14c66086a350c8993a81b8fc67f40b82654713c",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "5.1.* || 5.2.* || 5.3.*",
+                "php": "^5.6.4 || ^7.0"
+            },
+            "require-dev": {
+                "graham-campbell/testbench": "^3.2",
+                "phpunit/phpunit": "^5.4"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Vinkla\\Shield\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vincent Klaiber",
+                    "email": "hello@vinkla.com"
+                }
+            ],
+            "description": "A HTTP basic auth middleware for Laravel",
+            "keywords": [
+                "auth",
+                "basic",
+                "http",
+                "laravel",
+                "middleware",
+                "shield"
+            ],
+            "time": "2016-07-11 19:13:30"
         },
         {
             "name": "vlucas/phpdotenv",

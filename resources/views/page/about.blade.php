@@ -26,9 +26,8 @@
                     others.
                 </p>
                 <p> Contact us today! (link to contact us)</p>
-
-
             </div>
+
             <div class="col-md-3">
                 <h5 class="text-center">CTS Group of Companies</h5>
             </div>
@@ -40,7 +39,6 @@
                 </div>
                 <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
                 <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
-
             </div>
         </div>
     </div>

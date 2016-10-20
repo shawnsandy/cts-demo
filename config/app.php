@@ -167,6 +167,7 @@ return [
         Barryvdh\Debugbar\ServiceProvider::class,
         Brotzka\DotenvEditor\DotenvEditorServiceProvider::class,
         Laravel\Socialite\SocialiteServiceProvider::class,
+        Vinkla\Shield\ShieldServiceProvider::class,
 
 
     ],
