@@ -2,6 +2,10 @@
 
 return [
 
+    'login_type' => 'sheild',
+
+    'login_env' => 'production',
+
     'page_title' => 'Complete Technology Solutions',
 
     'page_slug' => 'Quick start pages for Laravel.',
