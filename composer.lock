@@ -2348,16 +2348,16 @@
         },
         {
             "name": "shawnsandy/pagekit",
-            "version": "v1.0.37",
+            "version": "v1.0.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shawnsandy/ui-pages.git",
-                "reference": "fe7bbdea6b781a5892fb52b6985673add1809dcf"
+                "reference": "93c575679f88aac9e24b37b284f6f4309440f140"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawnsandy/ui-pages/zipball/fe7bbdea6b781a5892fb52b6985673add1809dcf",
-                "reference": "fe7bbdea6b781a5892fb52b6985673add1809dcf",
+                "url": "https://api.github.com/repos/shawnsandy/ui-pages/zipball/93c575679f88aac9e24b37b284f6f4309440f140",
+                "reference": "93c575679f88aac9e24b37b284f6f4309440f140",
                 "shasum": ""
             },
             "require": {
@@ -2412,7 +2412,7 @@
                 "pagekit",
                 "shawnsandy"
             ],
-            "time": "2016-10-19 23:56:27"
+            "time": "2016-10-23 22:41:22"
         },
         {
             "name": "sven/env-providers",
