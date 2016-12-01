@@ -41,15 +41,17 @@ Route::get('unsplash', function () {
         return [
             "username" => $item['user']['first_name'].' '.$item['user']['last_name'],
             "id" => $item['user']['id'],
-            "raw" => $item['urls']['raw'],
-            "full" => $item['urls']['full'],
-            "regular" => $item['urls']['regular'],
-            "small" => $item['urls']['small'],
-            "thumb" => $item['urls']['thumb']
+            "avatar" => $item['user']['profile_image']['small'],
+            "photo_raw" => $item['urls']['raw'],
+            "photo_full" => $item['urls']['full'],
+            "photo_regular" => $item['urls']['regular'],
+            "photo_small" => $item['urls']['small'],
+            "photo_thumb" => $item['urls']['thumb']
         ];
     });
 
 
     return dump($img);
+
 });
 
