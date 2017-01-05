@@ -1,4 +1,4 @@
-@extends('page::page-layouts.main-page')
+@extends('page.page-layouts.main-page')
 @section('title', 'News and Articles')
 @section('content')
     <div class="container">
