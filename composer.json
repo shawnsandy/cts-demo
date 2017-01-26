@@ -6,8 +6,9 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*",
-        "shawnsandy/pagekit": "^1.1"
+        "laravel/framework": "5.3.*",
+        "shawnsandy/pagekit": "^1.0",
+        "crewlabs/unsplash": "^2.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('page::index');
+    return view('page.index');
 });
+
+Route::get('/pages/{name}', function ($name) {
+    return view('page.' . $name);
+});
+
+

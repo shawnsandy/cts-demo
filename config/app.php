@@ -159,7 +159,15 @@ return [
         App\Providers\RouteServiceProvider::class,
 
         // Nwidart\Modules\LaravelModulesServiceProvider::class,
-        ShawnSandy\PageKit\PageKitServiceProvider::class,
+         ShawnSandy\PageKit\PageKitServiceProvider::class,
+
+        Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
+        JeroenG\Packager\PackagerServiceProvider::class,
+        Sven\EnvProviders\EnvServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Brotzka\DotenvEditor\DotenvEditorServiceProvider::class,
+        Laravel\Socialite\SocialiteServiceProvider::class,
+        Vinkla\Shield\ShieldServiceProvider::class,
 
 
     ],
@@ -209,7 +217,10 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
         // vendors
-        'Module' => Nwidart\Modules\Facades\Module::class,
+        'DotenvEditor' => Brotzka\DotenvEditor\DotenvEditorFacade::class,
+        'Breadcrumbs' => ShawnSandy\PageKit\Facades\BreadcrumbFacade::class,
+        'MKD' => ShawnSandy\PageKit\Facades\MarkdownFacade::class,
+        'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
     ],
 

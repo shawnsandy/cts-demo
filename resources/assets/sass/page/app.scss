@@ -1,0 +1,178 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+$font-size-base: 16px;
+$navbar-height: 90px;
+$input-border-radius: 1px;
+$navbar-margin-bottom: 0;
+$base-padding: 30px;
+$secondary-bg: #337AB7;
+$border-radius-base: 5;
+$btn-border-radius-base: 3px;
+$sidebar-width: 250px;
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+html, body {
+  height: 100%;
+  color: darken($gray-light, 5%);
+  -webkit-font-smoothing: antialiased;
+}
+
+header {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  //font-weight: 100;
+
+}
+
+
+.layout-table {
+  display: table;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.layout-row {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+header {
+  background: #eeeeee url("/img/cts-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 380px;
+}
+
+header.index {
+
+  height: 600px;
+}
+
+main, section, footer {
+  padding: $base-padding 0 $base-padding 0;
+
+}
+
+footer {
+  background-color: $gray-darker;
+  color: $gray-light;
+}
+
+a {
+  &:link {
+    color: #004C96;
+  }
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #004C96;
+  font-size: 15px;
+
+}
+
+p {
+
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.lead {
+  font-size: 21px;
+}
+
+.products {
+  margin-bottom: 60px;
+}
+
+.cover {
+  height: 100%;
+  color: #fff;
+}
+
+.cover h1 {
+  font-size: 71px;
+}
+
+main {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.big-nav {
+  height: 20%;
+  max-height: 150px;
+}
+
+main {
+  background-color: #f9f9f9;
+}
+
+.products img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.products p {
+  padding: 12px;
+  line-height: 1.7;
+}
+
+.feature {
+  /*color: #fff;*/
+  padding: 80px 0 80px 0;
+}
+
+.clients {
+  background-color: $gray-lighter;
+}
+
+.client-logo {
+  height: 200px;
+}
+
+.g-map {
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 0;
+  background-color: #EEEEEE;
+}
+
+#contact-form {
+  label {
+    font-size: 12px;
+    font-weight: normal;
+    color: $gray-lighter;
+  }
+
+  input {
+    border: none;
+    border-bottom: dotted 1px $gray-light;
+    box-shadow: none;
+    margin-bottom: 20px;
+    background-color: transparent;
+  }
+
+  textarea {
+    margin: 30px 0  20px 0;
+    border: dotted 1px $gray-light;
+  }
+
+}
+
+.team-images {
+
+  margin: 20px 0 20px 0;
+  img {
+    box-sizing: border-box;
+    padding: 20px;
+  }
+
+}
