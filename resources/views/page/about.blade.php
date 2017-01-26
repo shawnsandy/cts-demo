@@ -32,14 +32,14 @@
                 <h5 class="text-center">CTS Group of Companies</h5>
             </div>
 
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="text-center">We're Moving</h2>
-                    <p class="lead text-center">We are moving to brand new state of the art office space.</p>
-                </div>
-                <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
-                <div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>
-            </div>
+            {{--<div class="row">--}}
+                {{--<div class="col-md-12">--}}
+                    {{--<h2 class="text-center">We're Moving</h2>--}}
+                    {{--<p class="lead text-center">We are moving to brand new state of the art office space.</p>--}}
+                {{--</div>--}}
+                {{--<div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>--}}
+                {{--<div class="col-md-6"><img src="http://placehold.it/600x460" class="img-responsive"></div>--}}
+            {{--</div>--}}
         </div>
     </div>
 
