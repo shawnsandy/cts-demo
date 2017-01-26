@@ -88,8 +88,8 @@
             </div>
         </div>
     </main>
-    <section class="clients" data-aos="fade-up">
-        <div class="container">
+    <section class="clients" >
+        <div class="container" data-aos="fade-up">
             <div class="row text-center">
                 <h2>Our Partners </h2>
             </div>
