@@ -2,19 +2,19 @@
 
 return [
 
-    'login_type' => 'sheild',
+    'login_type' => 'shield',
 
     'login_env' => 'production',
 
     'page_title' => 'Complete Technology Solutions',
 
-    'page_slug' => 'Quick start pages for Laravel.',
+    'page_slug' => 'Serving the IT community for over 15 years.',
 
-    'company_name' => 'ACME INC',
+    'company_name' => 'Complete Technology Solutions',
 
-    'contact_number' => '000 000 0000',
+    'contact_number' => '866 592 9936',
 
-    'email' => 'email@acmeinc.com',
+    'email' => 'support@ctsfla.com',
 
     'ga_tracker' => 'UA_0000000_0',
 
