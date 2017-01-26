@@ -18,7 +18,7 @@ return [
 
     'ga_tracker' => 'UA_0000000_0',
 
-    'address' => '0000 Street, City, State zip',
+    'address' => '4662 Commercial way Spring Hill, FL 34606',
 
     'branding' => false,
 
