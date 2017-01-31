@@ -15,6 +15,7 @@
             </div>
         </div>
     </header>
+
     <section class="feature" data-aos="fade-down">
         <div class="container">
             <div class="row text-center">
@@ -90,8 +91,9 @@
     </main>
     <section class="clients" >
         <div class="container" data-aos="fade-up">
-            <div class="row text-center">
-                <h2>Our Partners </h2>
+
+            <div class="col-md-12">
+                <p class="small text-center">Our Partners</p>
             </div>
 
             <div class="row">
