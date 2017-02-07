@@ -26,7 +26,7 @@
                 <div class="col-md-offset-2"></div>
                 <div class="col-md-5">
                     {{--<h2 class="text-center"><i class="fa fa-envelope" aria-hidden="true"></i>Email</h2>--}}
-                    <form id="contact-form" action="/page/send/mail/" method="post">
+                    <form id="contact-form" action="/page/send/mail" method="post">
                         {{ csrf_field() }}
                         <p>
                             {{--<label for="full_name">Your Name</label>--}}
