@@ -8,7 +8,7 @@
                     <div class="logo">
                         <h1>Complete Technology Solutions...</h1>
                         <p class="lead">
-                            Serving the IT Community since 1995
+                            Serving the IT Community since 1995.
                         </p>
                     </div>
                 </div>
