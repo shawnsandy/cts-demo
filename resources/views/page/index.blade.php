@@ -6,7 +6,7 @@
             <div class="layout-table">
                 <div class="layout-row">
                     <div class="logo">
-                        <h1>Complete Technology Solutions...</h1>
+                        <h1>Complete Technology Solutions</h1>
                         <p class="lead">
                             Serving the IT Community since 1995.
                         </p>
