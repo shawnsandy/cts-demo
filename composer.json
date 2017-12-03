@@ -8,7 +8,8 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.3.*",
         "shawnsandy/pagekit": "^1.0",
-        "crewlabs/unsplash": "^2.2"
+        "crewlabs/unsplash": "^2.2",
+        "spatie/laravel-html": "^2.10"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
